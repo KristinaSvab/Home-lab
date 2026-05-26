@@ -8,7 +8,7 @@ Since I didn't now the previous configuration of the router, the first think I d
 
 # Accessing the management website
 
-In order to access the management website you need to be connected to the router either wirelessly ot ethernet cable. Go to https://router.asus.com or enter its IP address into search bar on your browser.
+In order to access the management website you need to be connected to the router either wirelessly ot ethernet cable. Go to http://router.asus.com or enter its IP address into search bar on your browser. If you receive connection refused error, make sure you are connecting over HTTP and not HTTPS.
 
 The initial set up guide will appear. Go to advanced configuration -> wireless router operation mode (default) -> WAN internet connection choose Automatic IP (DHCP) -> No need to enter any credentials -> In wireless settings Set network name (SSID) and wireless security - Wifi password -> Set router management username and password.
 
